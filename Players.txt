@@ -1,0 +1,12 @@
+$player_name
+$guessed_word(trials)
+
+Peter
+sunshine(1)
+
+Bob
+rainbow(2) rainbow(1)
+
+Geoff
+sunshine(3) rainbow(1)
+
